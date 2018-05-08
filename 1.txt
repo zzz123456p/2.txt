@@ -1,0 +1,15 @@
+git 分布式管理工具
+给it add system.xmind
+git config --global user.email "you@example.com"  用户邮箱
+  git config --global user.name "Your Name"  用户名
+git status
+git commit -m ""第一次"
+git status  //判断状态
+git remote ad origin https://github.com/
+//
+链接远程仓库
+确认是否是本人  用户名 邮箱
+ git push -u origin master
+ 提交到远程仓库
+ 
+
